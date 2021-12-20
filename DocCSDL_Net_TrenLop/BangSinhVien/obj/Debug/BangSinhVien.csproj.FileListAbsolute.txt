@@ -1,0 +1,11 @@
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangSinhVien\bin\Debug\BangSinhVien.exe.config
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangSinhVien\bin\Debug\BangSinhVien.exe
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangSinhVien\bin\Debug\BangSinhVien.pdb
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangSinhVien\obj\Debug\BangSinhVien.csprojResolveAssemblyReference.cache
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangSinhVien\obj\Debug\BangSinhVien.Form1.resources
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangSinhVien\obj\Debug\BangSinhVien.Properties.Resources.resources
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangSinhVien\obj\Debug\BangSinhVien.csproj.GenerateResource.Cache
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangSinhVien\obj\Debug\BangSinhVien.exe
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangSinhVien\obj\Debug\BangSinhVien.pdb
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangSinhVien\obj\Debug\BangSinhVien.Form2.resources
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangSinhVien\obj\Debug\BangSinhVien.Form3.resources

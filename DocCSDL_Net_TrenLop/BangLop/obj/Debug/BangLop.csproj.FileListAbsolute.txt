@@ -1,0 +1,9 @@
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangLop\bin\Debug\BangLop.exe.config
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangLop\bin\Debug\BangLop.exe
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangLop\bin\Debug\BangLop.pdb
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangLop\obj\Debug\BangLop.csprojResolveAssemblyReference.cache
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangLop\obj\Debug\BangLop.Form1.resources
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangLop\obj\Debug\BangLop.Properties.Resources.resources
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangLop\obj\Debug\BangLop.csproj.GenerateResource.Cache
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangLop\obj\Debug\BangLop.exe
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangLop\obj\Debug\BangLop.pdb

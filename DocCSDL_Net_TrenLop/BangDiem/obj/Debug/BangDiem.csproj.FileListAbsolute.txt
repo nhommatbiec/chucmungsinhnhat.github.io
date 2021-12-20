@@ -1,0 +1,8 @@
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangDiem\bin\Debug\BangDiem.exe.config
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangDiem\obj\Debug\BangDiem.Form1.resources
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangDiem\obj\Debug\BangDiem.Properties.Resources.resources
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangDiem\obj\Debug\BangDiem.csproj.GenerateResource.Cache
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangDiem\bin\Debug\BangDiem.exe
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangDiem\bin\Debug\BangDiem.pdb
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangDiem\obj\Debug\BangDiem.exe
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangDiem\obj\Debug\BangDiem.pdb

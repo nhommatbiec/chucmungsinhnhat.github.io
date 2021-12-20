@@ -1,0 +1,8 @@
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangMonHoc\bin\Debug\BangMonHoc.exe.config
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangMonHoc\bin\Debug\BangMonHoc.exe
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangMonHoc\bin\Debug\BangMonHoc.pdb
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangMonHoc\obj\Debug\BangMonHoc.Form1.resources
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangMonHoc\obj\Debug\BangMonHoc.Properties.Resources.resources
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangMonHoc\obj\Debug\BangMonHoc.csproj.GenerateResource.Cache
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangMonHoc\obj\Debug\BangMonHoc.exe
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\BangMonHoc\obj\Debug\BangMonHoc.pdb

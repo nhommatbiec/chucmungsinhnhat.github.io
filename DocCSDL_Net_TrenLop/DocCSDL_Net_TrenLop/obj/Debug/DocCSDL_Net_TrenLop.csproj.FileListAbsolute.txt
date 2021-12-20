@@ -1,0 +1,13 @@
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\DocCSDL_Net_TrenLop\bin\Debug\DocCSDL_Net_TrenLop.exe.config
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\DocCSDL_Net_TrenLop\bin\Debug\DocCSDL_Net_TrenLop.exe
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\DocCSDL_Net_TrenLop\bin\Debug\DocCSDL_Net_TrenLop.pdb
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\DocCSDL_Net_TrenLop\obj\Debug\DocCSDL_Net_TrenLop.csprojResolveAssemblyReference.cache
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\DocCSDL_Net_TrenLop\obj\Debug\DocCSDL_Net_TrenLop.Form1.resources
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\DocCSDL_Net_TrenLop\obj\Debug\DocCSDL_Net_TrenLop.Properties.Resources.resources
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\DocCSDL_Net_TrenLop\obj\Debug\DocCSDL_Net_TrenLop.csproj.GenerateResource.Cache
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\DocCSDL_Net_TrenLop\obj\Debug\DocCSDL_Net_TrenLop.exe
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\DocCSDL_Net_TrenLop\obj\Debug\DocCSDL_Net_TrenLop.pdb
+C:\Users\Bridget\Desktop\CongNghe .NET\DocCSDL_Net_TrenLop\DocCSDL_Net_TrenLop\obj\Debug\DocCSDL_Net_TrenLop.Form2.resources
+E:\HK5\CongNghe .NET\DocCSDL_Net_TrenLop\DocCSDL_Net_TrenLop\bin\Debug\DocCSDL_Net_TrenLop.exe.config
+E:\HK5\CongNghe .NET\DocCSDL_Net_TrenLop\DocCSDL_Net_TrenLop\obj\Debug\DocCSDL_Net_TrenLop.exe
+E:\HK5\CongNghe .NET\DocCSDL_Net_TrenLop\DocCSDL_Net_TrenLop\obj\Debug\DocCSDL_Net_TrenLop.pdb
